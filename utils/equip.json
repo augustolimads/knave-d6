@@ -1,0 +1,31 @@
+{
+	"armadura": [
+		{
+			"name": "Sem armadura",
+			"rate": "2"
+		},
+		{
+			"name": "Armadura leve",
+			"rate": "3"
+		},
+		{
+			"name": "Armadura pesada",
+			"rate": "1"
+		}
+	],
+	"extra": [
+		{
+			"name": "adaga",
+			"rate": "2"
+		},
+		{
+			"name": "escudo",
+			"rate": "2"
+		},
+		{
+			"name": "arco + munição(3)",
+			"rate": "2"
+		}
+	],
+	"muWeapon": ["adaga", "cajado"]
+}

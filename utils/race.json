@@ -1,0 +1,30 @@
+[
+    {
+        "name":"Humano",
+        "rate":"3"
+    },
+    {
+        "name":"Anão (+FOR, -REF)",
+        "rate":"2"
+    },
+    {
+        "name":"Elfo (+REF, -FOR)",
+        "rate":"2"
+    },
+    {
+        "name":"Lupino (+REF, -VON)",
+        "rate":"1"
+    },
+    {
+        "name":"Meio-orc (+FOR, -INT)",
+        "rate":"1"
+    },
+    {
+        "name":"Hobbit (+VON, -STR)",
+        "rate":"1"
+    },
+    {
+        "name":"Eladrin (+INT, -FOR)",
+        "rate":"1"
+    }
+]
